@@ -163,10 +163,10 @@ cython_debug/
 conf/config.yaml
 
 # data folder
-data/
+# data/
 
 # outputs folder
 outputs/
 
 # results folder
-results/
+# results/
