@@ -1,0 +1,9 @@
+settings:
+    engine: pandas
+    input_type: csv
+    input_path: './data.csv'
+    output_type: excel
+    output_path: output.xlsx
+    train_test_split_ratio: 0.3
+    model_type: [SUOD]
+    query: None
